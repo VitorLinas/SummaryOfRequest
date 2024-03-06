@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\bin\Debug\net6.0\SummaryOfRequest.exe
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\bin\Debug\net6.0\SummaryOfRequest.deps.json
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\bin\Debug\net6.0\SummaryOfRequest.runtimeconfig.json
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\bin\Debug\net6.0\SummaryOfRequest.dll
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\bin\Debug\net6.0\SummaryOfRequest.pdb
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\obj\Debug\net6.0\SummaryOfRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\obj\Debug\net6.0\SummaryOfRequest.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\obj\Debug\net6.0\SummaryOfRequest.AssemblyInfo.cs
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\obj\Debug\net6.0\SummaryOfRequest.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\obj\Debug\net6.0\SummaryOfRequest.dll
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\obj\Debug\net6.0\refint\SummaryOfRequest.dll
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\obj\Debug\net6.0\SummaryOfRequest.pdb
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\obj\Debug\net6.0\SummaryOfRequest.genruntimeconfig.cache
+C:\Users\vitor\source\repos\SummaryOfRequest\SummaryOfRequest\obj\Debug\net6.0\ref\SummaryOfRequest.dll
